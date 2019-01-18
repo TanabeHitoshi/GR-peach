@@ -1,4 +1,18 @@
 body {
-  margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+	font-family: "Hiragino Kaku Gothic ProN";
+}
+
+header{
+	border:2px solid black;
+	margin:5px 5px;
+
+	height:40px;
+	width:99%;
+	font-size:20px;
+	color:blue;
+	background-color:#fceff7;
+}
+.header-logo{
+	opacity:0.6;
+	padding:5px 0px;
 }
