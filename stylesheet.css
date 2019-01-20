@@ -19,7 +19,6 @@ header{
 .main{
 	margin:10px 5px 0px 5px;
 	width:99%;
-	border-bottom:2px solid black;
 }
 
 .main_contents{
@@ -66,8 +65,16 @@ h2{
 /* フッター */
 footer{
 	padding:20px 10px;
+	margin-top:30px;
+	border-top:2px solid black;
 
 	height:40px;
 	width:99%;
+	text-align:center;
+}
+.footer_page{
 	font-size:20px;
+	display:inline-block;
+	margin:0px 10px;
+
 }
